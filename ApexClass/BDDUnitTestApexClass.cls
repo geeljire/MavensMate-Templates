@@ -1,16 +1,16 @@
 @isTest
 private class {{ api_name }}
 {
-	@isTest
-	static void itShould()
-	{
-		// Given
+    @isTest
+    static void itShould()
+    {
+        // Given
 
 
-		// When
+        // When
 
 
-		// Then
+        // Then
 
-	}
+    }
 }

@@ -1,6 +1,6 @@
 public with sharing class {{ api_name }} {
 
-	private final sObject mysObject;
+    private final sObject mysObject;
 
     // The extension constructor initializes the private member
     // variable mysObject by using the getRecord method from the standard
