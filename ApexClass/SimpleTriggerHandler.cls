@@ -1,4 +1,4 @@
-public class {{api_name}} {
+public without sharing class {{api_name}} {
 
     public void onBeforeInsert(List<{{object_name}}> records) {
 
