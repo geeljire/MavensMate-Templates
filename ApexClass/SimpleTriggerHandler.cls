@@ -9,12 +9,12 @@ public class {{api_name}} {
     }
 
     public void onBeforeUpdate(List<{{object_name}}> records,
-                               Map<Id,{{object_name}}> oldMap) {
+            Map<Id,{{object_name}}> oldMap) {
 
     }
 
     public void onAfterUpdate(List<{{object_name}}> records,
-                              Map<Id,{{object_name}}> oldMap) {
+            Map<Id,{{object_name}}> oldMap) {
 
     }
 
